@@ -1,7 +1,8 @@
 # clubpoker-scrape
 
-This is a simple C# console app which allows you to pull all of the useful poker-related definitions from http://en.clubpoker.net/poker-dictionary
+This is a simple C# console app which allows you to pull all of the useful poker-related definitions from http://en.clubpoker.net/poker-dictionary.
 I wrote this app as I wanted a way to pull over 650 useful definitions for someone learning Poker terminology.
+
 Note: this code worked on 12th Jan 2017. Obviously, websites change. So if the Html structure of clubpoker.net changes, this code might not work. 
 
 ## What this app does
@@ -21,4 +22,5 @@ The text file can be opened in Excel and will load just like a CSV file.
 
 ## Dependencies
 https://www.nuget.org/packages/Newtonsoft.Json/
+
 https://www.nuget.org/packages/HtmlAgilityPack/
