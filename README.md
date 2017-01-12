@@ -16,7 +16,7 @@ Note: this code worked on 12th Jan 2017. Obviously, websites change. So if the H
 ## Setup
 
 1. Clone the repo to your local disk
-1. Restore packages
+1. Build the code in Visual Studio. This shoudl restore Nuget packages
 1. Open the file Program.cs. If you want, change the output file specified in the StreamWriter. Otherwise it will just write it out to c:\temp\clubpoker.txt
 
 
