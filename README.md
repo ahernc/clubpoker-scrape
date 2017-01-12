@@ -15,9 +15,9 @@ The text file can be opened in Excel and will load just like a CSV file.
 
 ## Setup
 
-1.Clone the repo to your local disk
-1.Restore packages
-1.Open the file Program.cs. If you want, change the output file specified in the StreamWriter. Otherwise it will just write it out to c:\temp\clubpoker.txt
+1. Clone the repo to your local disk
+1. Restore packages
+1. Open the file Program.cs. If you want, change the output file specified in the StreamWriter. Otherwise it will just write it out to c:\temp\clubpoker.txt
 
 
 ## Dependencies
